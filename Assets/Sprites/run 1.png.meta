@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 8d8e5107f32616f4cb443d55d89086f8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: run 1
+    21300002: run 1_0
+    21300004: run 1_1
+    21300006: run 1_2
+    21300008: run 1_3
+    21300010: run 1_4
+    21300012: run 1_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: run 1_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 776
+        width: 127
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run 1_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 775
+        width: 125
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run 1_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 772
+        width: 127
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run 1_3
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 790
+        width: 159
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run 1_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 489
+        width: 125
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: run 1_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 496
+        width: 125
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
